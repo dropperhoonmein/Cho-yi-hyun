@@ -1,0 +1,13 @@
+body{
+    background-color: #feffe4;
+}
+.dot {
+
+    border-style: dotted none none none;
+    border-color: gray;
+    width: 5%;
+    border-width: 7px;   
+}
+p{
+    font-style: Fantasy;
+}
